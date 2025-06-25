@@ -8,7 +8,7 @@
 
 ## 💫 About Me:
 🔭 I’m currently Studying Computer Science Engineering in Sri Manakula Vinayagar Engineering College<br><br>👯 I’m looking to collaborate on innovative machine learning and AI projects, particularly in areas like computer vision, natural language processing, and smart systems<br><br>🤝 I’m looking for help with  exploring advanced AI techniques, building real-world applications, and improving my skills in deploying scalable solutions.<br><br>🌱 I’m currently learning Machine Learning.<br><br>💬 Ask me about my projects , such as gender detection using YOLOv5, women safety analytics.<br><br>⚡ Fun fact: I believe every problem has a computational solution waiting to be discovered! 😊
-<br>Introducing myself in a single sentence : "I am an Ordinary Girl with Extraordinary dreams"
+<br><br><b>Introducing myself in a single sentence : "I am an Ordinary Girl with Extraordinary dreams"<b>
 
 
 ## 🌐 Socials:
